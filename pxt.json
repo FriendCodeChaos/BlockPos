@@ -1,0 +1,11 @@
+{
+  "name": "mc-blocktools",
+  "description": "Tools for reading block data",
+  "dependencies": {
+    "minecraft": "*"
+  },
+  "files": [
+    "main.ts"
+  ],
+  "public": true
+}
